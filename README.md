@@ -68,7 +68,7 @@ If your maze has no passages:
 
 ## Output Format
 
-The generated `. warwickmaze` file should look like this:
+The generated `.warwickmaze` file should look like this:
 
 ```
 Type: WarwickMaze
